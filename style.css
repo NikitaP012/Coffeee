@@ -1,0 +1,21 @@
+div{
+    hight: 200px;
+    backeground-color: pink;
+    width: 200px;
+    border-width: 20px;
+    border-style:solid;
+    border-color: blue;
+}
+
+h1{
+    width:200px;
+    background-color: aquamarine;
+}
+p{
+    height: 200px;
+    background-color: pink;
+    width: 200px;
+    border-width: 20px;
+    border-style:solid;
+    border-color: blue;
+}
